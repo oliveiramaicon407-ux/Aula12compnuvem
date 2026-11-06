@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Aula 12 - Computação em Nuvem - Deploy na Azure";
+        return "Aula 12 - Computação em Nuvem - Deploy na Azure MAICON";
     }
 }
